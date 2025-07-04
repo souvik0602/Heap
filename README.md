@@ -39,8 +39,8 @@ Heap: [2, 7, 9, 34, 49, 87, 98, 53, 100, 71]
 The Sorted list is: [2, 7, 9, 34, 49, 53, 71, 87, 98, 100]
 
 
-📚 Requirements
+## 📚 Requirements
 Python 3.x (no external libraries required)
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
