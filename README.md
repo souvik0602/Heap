@@ -18,6 +18,8 @@ This project demonstrates how to use Python's built-in `heapq` module to:
 ---
 
 ## 🚀 How It Works
+### 📚 Requirements
+Python 3.x (no external libraries required)
 
 ### `nelement(nums, n)`
 
@@ -34,16 +36,10 @@ This project demonstrates how to use Python's built-in `heapq` module to:
 
 ```python
 Original list: [34, 7, 98, 53, 100, 87, 9, 2, 49, 71]
+n=3
 The nth element of the list is: 9
 Heap: [2, 7, 9, 34, 49, 87, 98, 53, 100, 71]
 The Sorted list is: [2, 7, 9, 34, 49, 53, 71, 87, 98, 100]
 
----
 
-## 📚 Requirements
-Python 3.x (no external libraries required)
 
----
-
-## 📄 License
-This project is licensed under the MIT License.
